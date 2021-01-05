@@ -1,0 +1,7 @@
+/*TODO
+    Access Modifiers
+    public    : diðer paktlerde dahil her clasdan ulaþýlabilir.
+    default   : Sadece kendi paketinin içindeki claslardan ulaþýlabilir.
+    portected : kendi paketinden ulaþýlabilir + subclass olursa diðer paketlerden de ulaþýlabilir.
+    private   : sadece kendi clasýnýn içinde ulaþýlabilir.
+     */

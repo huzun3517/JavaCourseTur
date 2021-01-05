@@ -1,0 +1,14 @@
+
+TODO
+    Bir okulun çalışanı ve öğrencilerinin kayıt altına alındığı bir program yapılmak isteniyor.
+    1- Calisan ların isim, adres, Okul, maas ve UyeTipi (Enum: Ogrenci, Calisan)  bilgileri vardır.
+    2- Öğrenci lerin isim, adres, Okul, ücret ve UyeTipi (Enum: Ogrenci, Calisan)  bilgileri vardır.
+    3- Okul un ise ismi, maxOgrenciSayisi, Öğrencileri ve Calisanlari vardır.
+
+todo    // düşünüyorum....
+    burada nesnelerin ortak özelliklerini tekrar tekrar yazmamak için, ortak özellikleri aynı olan
+    özellikleri bir sınıf yapıp, diğerlerini bundan türetebilirmiyim.
+
+todo    inceleme sonucunda calisan ve öğrencide ortak özelliklerin fazla olduğu gözüktü.
+    ozaman kisi isminde bir sınıfta bu ortak özellikleri toplayıp, burada ortak metodları yazıp,
+    daha sonra öğrenci ve calisan sınıfını buradan türeterek az kodla yazabilirim.
